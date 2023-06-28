@@ -3,3 +3,4 @@ git remote add origin https://github.com/lozano27x/Actividad1.git
 git init 
 git remote add origin https://github.com/lozano27x/Actividad1.git
 git add.
+git commit -m "Actividad 1 Desarrollo Web Full Stack"
